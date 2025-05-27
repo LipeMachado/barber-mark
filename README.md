@@ -1,6 +1,6 @@
-# Barber Appointment
+# Consulta de Barbeiro
 
-## Português (PT-BR)
+## Português 🇧🇷
 
 Este é um projeto de **Agendamento de Barbearia** desenvolvido com [Next.js](https://nextjs.org), [Prisma ORM](https://www.prisma.io/) e PostgreSQL. Permite que usuários agendem horários em barbearias, gerenciem serviços e contas.
 
@@ -47,8 +47,9 @@ Este é um projeto de **Agendamento de Barbearia** desenvolvido com [Next.js](ht
 - `lint` – Executa o ESLint
 
 ---
+# Barber Appointment
 
-## English
+## English 🇺🇸
 
 This is a **Barber Appointment** project built with [Next.js](https://nextjs.org), [Prisma ORM](https://www.prisma.io/), and PostgreSQL. It allows users to book appointments at barbershops, manage barbershop services, and handle user accounts.
 
