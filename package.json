@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "prepare": "husky"
   },
   "prisma": {
     "seed": "tsx prisma/seed.ts"
@@ -25,14 +26,15 @@
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
-    "@prisma/client": "^6.8.2",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20.17.50",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "15.3.1",
+    "husky": "^9.1.7",
     "install": "^0.13.0",
+    "lint-staged": "^16.0.0",
     "npm": "^11.4.1",
     "tailwindcss": "^4",
     "tsx": "^4.19.4",
